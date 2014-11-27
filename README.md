@@ -1,1 +1,4 @@
-This is the first Lab repo.
+Lab-01
+======
+
+Primary laboratory for simple experiments
