@@ -1,3 +1,4 @@
 Project Contents
 ---------------------------------------------------------------------------------------------
 This lab is about :
+  Testing Git concepts.
