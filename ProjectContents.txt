@@ -2,3 +2,9 @@ Project Contents
 ---------------------------------------------------------------------------------------------
 This lab is about :
   Testing Git concepts.
+
+  
+Description of feature/lab-ex01 goes in here :
+  Make changes to Draft.
+  
+----------------------------------------------------------------------------------------------
