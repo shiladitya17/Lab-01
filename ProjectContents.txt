@@ -2,3 +2,9 @@ Project Contents
 ---------------------------------------------------------------------------------------------
 This lab is about :
   Testing Git concepts.
+  Running simplified scenarios/use cases to get familiarized with Git operations.
+
+Release 1.0 Contents
+----------------------------------------------------------------------------------------------
+Merge scenarios
+  
