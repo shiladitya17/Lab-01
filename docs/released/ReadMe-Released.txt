@@ -2,13 +2,13 @@
 READ ME - Released 
 #####################################################################################################
 
-2025-Feb-05 19:09 Start of Change ----
+2025-Feb-05 19:09 Start of some Change ----
 
 Released Line1
 
 Released line2
 
-2025-Feb-05 19:09 End of Change ----
+2025-Feb-05 19:09 End of some Change ----
 
 ---------------------------------
 Changes in feature/feat01
