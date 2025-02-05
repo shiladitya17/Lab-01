@@ -5,3 +5,11 @@ READ ME - Drafts
 2. User manuals to be published in .epub format.3. Architecture diagrams must be 1920 x 1080p.
 4. User manuals to be published in .pdf format also.
 5. Ensure relative links work in drafts.
+
+2025-Feb-05 19:03 Start of Change ----
+
+Line1
+
+line2
+
+2025-Feb-05 19:03 End of Change ----
