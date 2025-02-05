@@ -13,3 +13,20 @@ Line1
 line2
 
 2025-Feb-05 19:03 End of Change ----
+
+---- ### --------------------------------------
+Start of changes: chunk1: feature/feat01
+
+change 1
+
+End   of changes: chunk1: feature/feat01
+---- ### --------------------------------------
+
+
+---- ### --------------------------------------
+Start of changes: chunk2: feature/feat01
+
+change 2
+
+End   of changes: chunk2: feature/feat01
+---- ### --------------------------------------
